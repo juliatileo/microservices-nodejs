@@ -1,0 +1,5 @@
+services:
+  app:
+    image: order-service
+    ports:
+      - 13003:3003

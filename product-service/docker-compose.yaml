@@ -1,0 +1,5 @@
+services:
+  app:
+    image: product-service
+    ports:
+      - 13002:3002

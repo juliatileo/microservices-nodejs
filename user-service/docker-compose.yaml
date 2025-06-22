@@ -1,0 +1,5 @@
+services:
+  app:
+    image: user-service
+    ports:
+      - 13001:3001
